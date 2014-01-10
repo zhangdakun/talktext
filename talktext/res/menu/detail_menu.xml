@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@*android:drawable/ic_menu_gallery" android:id="@id/read_type" android:orderInCategory="0" android:title="阅读风格">
+        <menu>
+            <item android:id="@id/read_type_1" android:visible="true" android:title="白天" />
+            <item android:id="@id/read_type_2" android:visible="true" android:title="夜间" />
+            <item android:id="@id/read_type_3" android:visible="true" android:title="护眼" />
+            <item android:id="@id/read_type_4" android:visible="true" android:title="羊皮纸" />
+        </menu>
+    </item>
+    <item android:icon="@*android:drawable/ic_menu_info_details" android:id="@id/mainMenuAbout" android:title="@string/mainMenuAboutStr" />
+    <item android:icon="@*android:drawable/ic_menu_preferences" android:id="@id/mainMenuSetting" android:title="@string/mainMenuSettingStr" />
+    <item android:icon="@*android:drawable/ic_menu_myplaces" android:id="@id/mainMenuMore" android:visible="false" android:title="@string/mainMenuMoreStr" />
+</menu>

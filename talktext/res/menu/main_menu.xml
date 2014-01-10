@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@*android:drawable/ic_menu_revert" android:id="@id/mainMenuGoon" android:title="@string/mainMenuGoonStr" />
+    <item android:icon="@*android:drawable/ic_menu_myplaces" android:id="@id/mainMenuMore" android:visible="false" android:title="@string/mainMenuMoreStr" />
+    <item android:icon="@*android:drawable/ic_menu_info_details" android:id="@id/mainMenuAbout" android:title="@string/mainMenuAboutStr" />
+    <item android:icon="@*android:drawable/ic_menu_preferences" android:id="@id/mainMenuSetting" android:title="@string/mainMenuSettingStr" />
+    <item android:icon="@*android:drawable/ic_lock_power_off" android:id="@id/mainMenuExit" android:title="@string/mainMenuExitStr" />
+</menu>

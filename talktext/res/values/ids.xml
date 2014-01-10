@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="detail_relativelayout">false</item>
+    <item type="id" name="scrool">false</item>
+    <item type="id" name="detail">false</item>
+    <item type="id" name="next_btn">false</item>
+    <item type="id" name="adlayout">false</item>
+    <item type="id" name="detail_top_bar">false</item>
+    <item type="id" name="fontcontrol">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="pre">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="adLayout">false</item>
+    <item type="id" name="fontcontrol_area">false</item>
+    <item type="id" name="fontsmaller">false</item>
+    <item type="id" name="fontlarger">false</item>
+    <item type="id" name="go_on_btn">false</item>
+    <item type="id" name="mainlist">false</item>
+    <item type="id" name="toast_layout">false</item>
+    <item type="id" name="toast_text">false</item>
+    <item type="id" name="item_id">false</item>
+    <item type="id" name="item_read_icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="last_time">false</item>
+    <item type="id" name="read_type">false</item>
+    <item type="id" name="read_type_1">false</item>
+    <item type="id" name="read_type_2">false</item>
+    <item type="id" name="read_type_3">false</item>
+    <item type="id" name="read_type_4">false</item>
+    <item type="id" name="mainMenuAbout">false</item>
+    <item type="id" name="mainMenuSetting">false</item>
+    <item type="id" name="mainMenuMore">false</item>
+    <item type="id" name="mainMenuGoon">false</item>
+    <item type="id" name="mainMenuExit">false</item>
+</resources>

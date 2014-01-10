@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="first_preferencescreen"
+    android:title="设置" >
+
+    <PreferenceCategory android:title="偏好设置" />
+
+    <ListPreference
+        android:defaultValue="17"
+        android:dialogTitle="请选择"
+        android:entries="@array/text_size_list_preference"
+        android:entryValues="@array/text_size_list_preference"
+        android:key="text_size"
+        android:summary="选择合适的字体大小"
+        android:title="字体大小" />
+    <ListPreference
+        android:defaultValue="auto"
+        android:dialogTitle="请选择"
+        android:entries="@array/screentype_list_preference"
+        android:entryValues="@array/screentype_value_list_preference"
+        android:key="screentype"
+        android:summary="选择屏幕显示模式"
+        android:title="屏幕设置" />
+
+    <PreferenceCategory android:title="关于我们" />
+
+    <Preference
+        android:key="ver"
+        android:summary="Version 3.0"
+        android:title="阅读器版本" />
+    <Preference
+        android:key="email"
+        android:summary="studykills@gmail.com"
+        android:title="联系邮箱" />
+
+</PreferenceScreen>

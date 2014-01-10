@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">人际交往心理学</string>
+    <string name="mainMenuMoreStr">更多精彩书籍</string>
+    <string name="mainMenuGoonStr">继续上次阅读</string>
+    <string name="mainMenuSettingStr">设置</string>
+    <string name="mainMenuAboutStr">关于</string>
+    <string name="mainMenuExitStr">退出</string>
+</resources>
